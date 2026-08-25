@@ -6,8 +6,8 @@
 I built a custom 6-key macropad with a rotary knob, designing the electronics, PCB, and case myself. The entire project took about 8 hours to finish, from the schematic to the case 
 
 
-<img width="600" height="360" alt="Screenshot 2026-08-21 204949" src="https://github.com/user-attachments/assets/d825411a-5693-4258-bc14-71c448e72135" />
-<img width="360" height="360" alt="Screenshot 2026-08-23 121813" src="https://github.com/user-attachments/assets/e5ce434f-2c4e-4041-853b-ba3f04380df4" />
+<img width="600" height="360" alt="Screenshot 2026-08-21 204949" src="Images/Screenshot 2026-08-21 204949.png" />
+
 
 
 
@@ -53,7 +53,7 @@ This project involved wiring a schematic and PCB around a Seeeduino-XIAO microco
 
 | PCB | Schematic | CAD |
 |-----|-----------|-----|
-|<img width="1122" height="655" alt="Screenshot 2026-08-15 202235" src="Images/pcb.pdf" />| <img width="1776" height="762" alt="Screenshot 2026-08-15 202208" src="https://github.com/user-attachments/assets/d1f2cd6f-a4af-49dc-9105-ea55a8ac4f84" /> | <img width="749" height="647" alt="Screenshot 2026-08-23 120703" src="https://github.com/user-attachments/assets/b841f5d9-ae40-4443-bcf2-78486a132d8c" /> |
+|<img width="1122" height="655" alt="Screenshot 2026-08-15 202235" src="Images/Screenshot 2026-08-15 202235.png" />| <img width="1776" height="762" alt="Screenshot 2026-08-15 202208" src="Images/Screenshot 2026-08-23 120417.png" /> | <img width="749" height="647" alt="Screenshot 2026-08-23 120703" src="Images/Screenshot 2026-08-23 121813.png" /> |
 
 
 
