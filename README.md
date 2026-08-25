@@ -25,11 +25,11 @@ This project involved wiring a schematic and PCB around a Seeeduino-XIAO microco
 
 - 6x Sw_Push
 
-+ 6x 1N4148 Diodes
++ 6x [1N4148 Diodes](https://www.amazon.com/Switching-Electronic-Silicon-20-PCS/dp/B0DS1JLQ1X/ref=mp_s_a_1_2?adgrpid=185095167246&dib=eyJ2IjoiMSJ9.O2OJQ47uV5bDke7NBMJZqOpISxFLy9ZS-Su4JIgOZmMCaORVQgdl1iqxBsjlK2dmkjuf9EHKg1UiMLd6ocT04RcHFmApSr2c_eBxhk9ByLdoSvoA8X-YOi8oEQ9Pl9VIWnLLOs_TGP4SPU01a9Smn_eymBVoOTlWEwFEoRzgUMYUtk1DnF4Kb1vHB89bvGTXbpD2WPgMCSmGGUtf18hhEQ.z-JwUNTMj9BwF-hQT3FxE9avxz-iz3-k1m_MBFJYsJg&dib_tag=se&hvadid=779685760472&hvdev=m&hvexpln=0&hvlocphy=1019592&hvnetw=g&hvocijid=17213166467988764376--&hvqmt=e&hvrand=17213166467988764376&hvtargid=kwd-835929612&hydadcr=16254_13526803_2270916&keywords=1n4148+diodes&mcid=f60b099e5e983724b40b971fef2bcc7e&qid=1787656432&sr=8-2)
 
 * 1x RotaryEncoder_Switch
 
-- 1x Seeeduino XIAO
+- 1x [Seeeduino XIAO](https://www.amazon.com/Microcontroller-Dual-Core-MicroPython-CircuitPython-Interfaces/dp/B09NNVNW7M/ref=mp_s_a_1_7?adgrpid=185121935694&dib=eyJ2IjoiMSJ9.0vHUms8Cy0COTyJlzC0EbBWumQX4FWHvVqMsgTv6jaibIULpDW88s77wPZcu6As6qlVA5Y815jloVajHYlECIxWNw4OkrQHxxDwfVTuzoCGcKlZJElXtg5URrtCngvHqE7HTAeBZqVPyhDRYJFqs3fLe8WtphZHAkptmN0IVOKEMIvw7SdZ5Qkmx3BaTZBQoO4cn5vI7Yg-YB2_qGgZUQw.rtmfCg3Ey9Yzkbi6lQMQlIaDzhA5Th1lDTCWHTL6iRk&dib_tag=se&hvadid=779761152871&hvdev=m&hvexpln=0&hvlocphy=1014456&hvnetw=g&hvocijid=5531217229168987762--&hvqmt=e&hvrand=5531217229168987762&hvtargid=kwd-1094731670832&hydadcr=20134_13388458_1204967&keywords=seeeduino%2Bxiao&mcid=70b1dd9c676f36ea9e3662096e6ddbb4&qid=1787656226&sr=8-7&th=1&psc=1)
 
 ### <ins> Software: </ins> 
 
