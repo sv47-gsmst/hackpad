@@ -26,17 +26,17 @@ This project involved wiring a schematic and PCB around a Seeeduino-XIAO microco
 
 - 6x Sw_Push : Cherry MX switches
 
-+ 6x (1N4148 DO-35 Diodes) [https://www.digikey.com/en/products/detail/onsemi/1N4148/458603?msockid=0ea5a3721be567da03c4b1871a33668c] 
++ 6x [1N4148 DO-35 Diodes](https://www.digikey.com/en/products/detail/onsemi/1N4148/458603?msockid=0ea5a3721be567da03c4b1871a33668c)
 
-* 1x (EC11 RotaryEncoder_Switch) [https://easyelecmodule.com/product/ec11-rotary-encoder-module/]
+* 1x [EC11 RotaryEncoder_Switch](https://easyelecmodule.com/product/ec11-rotary-encoder-module/)
 
-- 1x (RP2040 MOUDLE-SEEEDUINO-XIAO) [https://wiki.seeedstudio.com/XIAO-RP2040/]
+- 1x [RP2040 MOUDLE-SEEEDUINO-XIAO](https://wiki.seeedstudio.com/XIAO-RP2040/)
 
-* 4x (M3x16mm screws) [https://www.homedepot.com/p/Hillman-M6-1-00-x-10-mm-Internal-Hex-Button-Head-Cap-Screws-6-Pack-44478/204786183]
+* 4x [M3x16mm screws](https://www.homedepot.com/p/Hillman-M6-1-00-x-10-mm-Internal-Hex-Button-Head-Cap-Screws-6-Pack-44478/204786183)
 
 - 6x Key Caps
 
-+ 4x (M3 headsets) [https://partsbuilt.com/m3-heat-set-thread-insert-5mm-long-4-pack/?utm_source=chatgpt.com]
++ 4x [M3 headsets](https://partsbuilt.com/m3-heat-set-thread-insert-5mm-long-4-pack/?utm_source=chatgpt.com)
 
 
 ### <ins> Software: </ins> 
@@ -53,7 +53,7 @@ This project involved wiring a schematic and PCB around a Seeeduino-XIAO microco
 
 | PCB | Schematic | CAD |
 |-----|-----------|-----|
-|<img width="1122" height="655" alt="Screenshot 2026-08-15 202235" src="https://github.com/user-attachments/assets/103aaa70-e041-4c2f-b3a8-29194c52bada" />| <img width="1776" height="762" alt="Screenshot 2026-08-15 202208" src="https://github.com/user-attachments/assets/d1f2cd6f-a4af-49dc-9105-ea55a8ac4f84" /> | <img width="749" height="647" alt="Screenshot 2026-08-23 120703" src="https://github.com/user-attachments/assets/b841f5d9-ae40-4443-bcf2-78486a132d8c" /> |
+|<img width="1122" height="655" alt="Screenshot 2026-08-15 202235" src="Images/pcb.pdf" />| <img width="1776" height="762" alt="Screenshot 2026-08-15 202208" src="https://github.com/user-attachments/assets/d1f2cd6f-a4af-49dc-9105-ea55a8ac4f84" /> | <img width="749" height="647" alt="Screenshot 2026-08-23 120703" src="https://github.com/user-attachments/assets/b841f5d9-ae40-4443-bcf2-78486a132d8c" /> |
 
 
 
